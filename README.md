@@ -2,14 +2,16 @@
 
 **A modern Vue.js multiple pages cli which uses Vue 2, Webpack3, and Postcss**
 
+**Base on [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages)**
+
+**Inspired by [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack)**
+
 ## Features
 
 1. [Vue2](https://github.com/vuejs/vue)
 2. [Webpack3](https://github.com/webpack/webpack)
 3. [Eslint](https://github.com/eslint/eslint)
 4. [Postcss](https://github.com/postcss/postcss)
-
-## Inspired by [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) and [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack)
 
 ## Get Started
 
@@ -19,7 +21,7 @@
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init ElvisKang/vue-multiple-pages new-project
+$ vue init ElvisKang/vue-multi-pages new-project
 $ cd new-project
 $ npm install / yarn
 ```
