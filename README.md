@@ -32,12 +32,7 @@ $ npm install / yarn
 # serve with hot reload at localhost:8010
 $ npm run dev / yarn dev
 ```
-
-visit [http://localhost:8010/user/login.html](http://localhost:8010/user/login.html)
-
-visit [http://localhost:8010/user/index.html](http://localhost:8010/user/index.html)
-
-visit [http://localhost:8010/customer/index.html](http://localhost:8010/customer/index.html)
+visit [http://localhost:8010/customer.html](http://localhost:8010/customer/index.html)
 
 #### Build
 
