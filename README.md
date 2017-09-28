@@ -1,6 +1,6 @@
-# vue-multiple-pages
+# vue-multi-pages
 
-**A modern Vue.js multiple pages cli which uses Vue 2, Webpack3, and Postcss**
+**Vue.js multiple pages cli which uses Vue 2, Webpack3, and Postcss**
 
 **Base on [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages)**
 
